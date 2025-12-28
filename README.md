@@ -30,6 +30,7 @@ Passionate about clean code, system design, and continuous learning.
 - JavaScript  
 - Python
 - C
+  
 **Frontend**
 - React  
 - HTML5, CSS3  
